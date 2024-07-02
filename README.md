@@ -1,13 +1,6 @@
 # Tasky ![48](https://user-images.githubusercontent.com/7277662/108041817-eaaeea80-6ff3-11eb-9d05-8da57896cd6b.png)
 
 
-![iOS](https://img.shields.io/badge/iOS-14%20-blue)
-[![App Store](https://img.shields.io/itunes/v/1552534120?label=App%20Store)](https://apps.apple.com/us/app/tasky-task-made-easy/id1552534120)
-[![App Store](https://img.shields.io/badge/Price-Free-orange)](https://img.shields.io/badge/Price-Free-orange)
-[![Visits Badge](https://badges.pufler.dev/visits/livinglist/Tasky)](https://badges.pufler.dev)
-[![GitHub](https://img.shields.io/github/stars/livinglist/Tasky?style=social)](https://img.shields.io/github/stars/livinglist/Tasky?style=social)
-
-
 <p align="center">
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108316723-24a5fb00-7172-11eb-841c-a36a6dffb8b3.png"> 
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588466-391efa80-730e-11eb-9b83-9dbb869114a8.png"> 
